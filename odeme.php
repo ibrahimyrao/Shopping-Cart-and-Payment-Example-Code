@@ -1,8 +1,8 @@
 <div style="width: 100%; margin: 0 auto; display: table;">
     <?php
-    $merchant_id = '471561';
-    $merchant_key = 'QecQuDdJ251JLQH3';
-    $merchant_salt = 'Xcc1LLUpKsB8J7ze';
+    $merchant_id = '';
+    $merchant_key = '';
+    $merchant_salt = '';
 
     // Assuming $paymentInformation is passed to the view
     $email = 'uydevp@gmail.com';
